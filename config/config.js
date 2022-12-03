@@ -3,7 +3,10 @@ const env = process.env.NODE_ENV || 'development'; // set the environment
 console.log('env -------', env)
 
 if(env === 'development' || env === 'test') {
-  const config = require('./config.json');
+  const config = require('./config.json').catch(() => null);
+  
+  if(!config) return;
+
   const envConfig = config[env];
 
   Object.keys(envConfig).forEach((key) => { // turn the envConfig object into an array of key names

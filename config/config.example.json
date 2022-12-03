@@ -7,8 +7,9 @@
     "MAILGUN_USERNAME": "",
     "MAILGUN_PASSWORD": "",
     "SEND_MAILS": "true",
-    "ADMIN_EMAIL": "chihweiliu1993@gmail.com",
+    "ADMIN_EMAIL": "test@example.com",
     "ADMIN_SECRET": "secret",
+    "EMAIL_TARGET": "test@example.com",
     "INSTITUTION_CODE": "test",
     "JWT_SECRET": "fqefewqfq151q2452rewhyeue5uqetq!!"
   },
@@ -20,8 +21,9 @@
     "MAILGUN_USERNAME": "",
     "MAILGUN_PASSWORD": "",
     "SEND_MAILS": "true",
-    "ADMIN_EMAIL": "chihweiliu1993@gmail.com",
+    "ADMIN_EMAIL": "test@example.com",
     "ADMIN_SECRET": "secret",
+    "EMAIL_TARGET": "test@example.com",
     "INSTITUTION_CODE": "test",
     "JWT_SECRET": "fqefewqfq151q2452rewhyeue5uqetq!!"
   }

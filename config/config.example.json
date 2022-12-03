@@ -1,0 +1,13 @@
+{
+  "COOKIE_KEY": "",
+  "MONGODB_URI": "",
+  "PORT": 3000,
+  "EMAIL_HOST": "",
+  "MAILGUN_USERNAME": "",
+  "MAILGUN_PASSWORD": "",
+  "SEND_MAILS": "true",
+  "ADMIN_EMAIL": "chihweiliu1993@gmail.com",
+  "ADMIN_SECRET": "secret",
+  "INSTITUTION_CODE": "test",
+  "JWT_SECRET": "fqefewqfq151q2452rewhyeue5uqetq!!"
+}
